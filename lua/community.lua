@@ -8,5 +8,6 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.completion.mini-completion" },
+  { import = "astrocommunity.media.vim-wakatime" },
   -- import/override with your plugins folder
 }
